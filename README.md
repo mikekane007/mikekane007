@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am a Software Engineer. I really love to build solutions in the forms of websites and mobile application to help people.<br>
+Hi I am a Software Engineer. I love to build things <br>
 
 
 ## 🌐 Socials:
