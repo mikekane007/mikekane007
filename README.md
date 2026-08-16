@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I am a Software Engineer. I love to build things <br>
+Hi, my name is Michael and I am a Software Engineer. I love to build systems that serve the needs of my clients/end-users <br>
 
 
 ## 🌐 Socials:
