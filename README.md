@@ -4,7 +4,7 @@ Software engineer based in France. I build full-stack web apps end to end — fr
 
 Right now I'm mostly working with **Angular**, **NestJS**, **TypeScript** and **Firebase**, deploying on **Vercel**.
 
-[LinkedIn](https://linkedin.com/in/michaelagyeikane) · [X](https://x.com/mikekanex24) · [Instagram](https://instagram.com/mr.kane___) · [Email](mailto:mikekanex24@gmail.com)
+[Portfolio](https://mikekaneportfolio.vercel.app) · [LinkedIn](https://linkedin.com/in/michaelagyeikane) · [X](https://x.com/mikekanex24) · [Instagram](https://instagram.com/mr.kane___) · [Email](mailto:mikekanex24@gmail.com)
 
 ---
 
@@ -25,4 +25,4 @@ Right now I'm mostly working with **Angular**, **NestJS**, **TypeScript** and **
 
 ## Get in touch
 
-Want to work together or just say hi? The fastest way to reach me is [email](mailto:mikekanex24@gmail.com) or [LinkedIn](https://linkedin.com/in/michaelagyeikane).
+Want to work together or just say hi? The fastest way to reach me is [email](mailto:mikekanex24@gmail.com) or [LinkedIn](https://linkedin.com/in/michaelagyeikane), and you can see more of my work on my [portfolio](https://mikekaneportfolio.vercel.app).
