@@ -1,26 +1,28 @@
-# 💫 About Me:
-Hi, my name is Michael and I am a Software Engineer. I love to build systems that serve the needs of my clients/end-users <br>
+# Hi, I'm Michael 👋
 
+Software engineer based in France. I build full-stack web apps end to end — from the API and database to the interface people actually use — and ship them to production.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr.kane___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michaelagyeikane) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mikekanex24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mikekanex24@gmail.com) 
+Right now I'm mostly working with **Angular**, **NestJS**, **TypeScript** and **Firebase**, deploying on **Vercel**.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mikekane007&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mikekane007&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikekane007&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mikekane007&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+[LinkedIn](https://linkedin.com/in/michaelagyeikane) · [X](https://x.com/mikekanex24) · [Instagram](https://instagram.com/mr.kane___) · [Email](mailto:mikekanex24@gmail.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mikekane007&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## What I've been building
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **[Knitted](https://knitted-web.vercel.app)** · [code](https://github.com/mikekane007/knitted) | A community events platform: discover workshops and meetups, book a spot, chat with hosts, or host your own. Google sign-in, filtered search, tickets. | Angular · NestJS · Firestore · Vercel |
+| **[Throttle Brawl](https://roadrash-three.vercel.app)** · [code](https://github.com/mikekane007/roadrash) | A 3D motorbike combat racer in the browser — career mode, AI rivals, traffic and cops across four roads. | Next.js · three.js · TypeScript |
+| **[Go and Tell](https://eask-nine.vercel.app)** · [code](https://github.com/mikekane007/eask) | A 3D street game set in Accra, Lille, Paris and Douai: walk the city, talk to people and learn from feedback on every answer. | Angular · three.js |
+| **[Mels Juices](https://mels-juice.vercel.app)** · [code](https://github.com/mikekane007/mels_juice) | Storefront for a handcrafted juice brand, with an interactive menu and mobile money payments. | JavaScript |
+| **[OmniPlan](https://github.com/mikekane007/omniplan)** | A planner that turns voice, text or a photo of your notes into scheduled tasks, synced to Google Calendar. | Angular · Web Speech · OCR |
+| **[Car Rental Platform](https://github.com/mikekane007/car-rental)** | A marketplace API connecting car owners and renters: OAuth, bookings, availability, Stripe payments. | NestJS · TypeScript |
+
+## Tech I use
+
+[![My stack](https://skillicons.dev/icons?i=ts,js,angular,nextjs,react,nodejs,nestjs,express,java,spring,py,firebase,mongodb,threejs,vercel,azure,docker,git&perline=9)](https://skillicons.dev)
+
+## Get in touch
+
+Want to work together or just say hi? The fastest way to reach me is [email](mailto:mikekanex24@gmail.com) or [LinkedIn](https://linkedin.com/in/michaelagyeikane).
